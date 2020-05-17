@@ -1,0 +1,16 @@
+{
+    "allow_change": [
+        "*.cpp",
+        "*.h",
+        "test/scheme_test.cpp",
+        "test/scheme_test.h",
+        "../scheme-tokenizer/*.cpp",
+        "../scheme-tokenizer/*.h",
+        "../scheme-parser/*.h",
+        "../scheme-parser/*.cpp",
+        "CMakeLists.txt"
+    ],
+    "tests": "test_scheme",
+    "solutions": "private",
+    "review": true
+}

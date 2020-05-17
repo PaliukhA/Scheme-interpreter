@@ -1,0 +1,6 @@
+1
+(define x 5)
+(define y 4)
+(* x y)
+(define slow-product (lambda (x y res) (if (= x 0) res (slow-product (- x 1) y (+ res y) ) ) ) )
+(slow-product x y 0)

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b93d117-4d86-469f-9d21-fbc53c5ef49f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assemble.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assemble.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/object.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/object.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scope.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scope.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tokenizer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tokenizer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../any/any.h" beforeDir="false" afterPath="$PROJECT_DIR$/../any/any.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin-pow/binpow.h" beforeDir="false" afterPath="$PROJECT_DIR$/../bin-pow/binpow.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cow-vector/cow_vector.h" beforeDir="false" afterPath="$PROJECT_DIR$/../cow-vector/cow_vector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dedup/dedup.h" beforeDir="false" afterPath="$PROJECT_DIR$/../dedup/dedup.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deque/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../deque/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deque/deque.h" beforeDir="false" afterPath="$PROJECT_DIR$/../deque/deque.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deque/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../deque/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diff-pairs/diff_pairs.h" beforeDir="false" afterPath="$PROJECT_DIR$/../diff-pairs/diff_pairs.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diff-pairs/diff_pairs_test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../diff-pairs/diff_pairs_test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dungeon/rogue.h" beforeDir="false" afterPath="$PROJECT_DIR$/../dungeon/rogue.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entrance/entrance.h" beforeDir="false" afterPath="$PROJECT_DIR$/../entrance/entrance.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factorization/factorization.h" beforeDir="false" afterPath="$PROJECT_DIR$/../factorization/factorization.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../filter-even/filter_even.h" beforeDir="false" afterPath="$PROJECT_DIR$/../filter-even/filter_even.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../find-last/find_last.h" beforeDir="false" afterPath="$PROJECT_DIR$/../find-last/find_last.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fold/fold.h" beforeDir="false" afterPath="$PROJECT_DIR$/../fold/fold.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functors/functors.h" beforeDir="false" afterPath="$PROJECT_DIR$/../functors/functors.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functors/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../functors/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intrusive-list/intrusive_list.h" beforeDir="false" afterPath="$PROJECT_DIR$/../intrusive-list/intrusive_list.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itertools/itertools.h" beforeDir="false" afterPath="$PROJECT_DIR$/../itertools/itertools.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../list/list.h" beforeDir="false" afterPath="$PROJECT_DIR$/../list/list.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../list/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../list/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../local-max/local_max.h" beforeDir="false" afterPath="$PROJECT_DIR$/../local-max/local_max.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../local-max/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../local-max/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../long-sum/long_sum.h" beforeDir="false" afterPath="$PROJECT_DIR$/../long-sum/long_sum.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../long-sum/long_sum_test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../long-sum/long_sum_test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lru-cache/lru_cache.h" beforeDir="false" afterPath="$PROJECT_DIR$/../lru-cache/lru_cache.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lru-cache/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../lru-cache/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/matrix.h" beforeDir="false" afterPath="$PROJECT_DIR$/../matrix/matrix.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../matrix/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiplication/multiplication.h" beforeDir="false" afterPath="$PROJECT_DIR$/../multiplication/multiplication.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiplication/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../multiplication/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partition/partition.h" beforeDir="false" afterPath="$PROJECT_DIR$/../partition/partition.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permutations/permutations.h" beforeDir="false" afterPath="$PROJECT_DIR$/../permutations/permutations.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phone-book/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../phone-book/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pimpl/ugly.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../pimpl/ugly.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../polish-notation/polish_notation.h" beforeDir="false" afterPath="$PROJECT_DIR$/../polish-notation/polish_notation.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pt-triangle/point_triangle.h" beforeDir="false" afterPath="$PROJECT_DIR$/../pt-triangle/point_triangle.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quadratic/quadratic.h" beforeDir="false" afterPath="$PROJECT_DIR$/../quadratic/quadratic.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../range/range.h" beforeDir="false" afterPath="$PROJECT_DIR$/../range/range.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-map/reverse_map.h" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-map/reverse_map.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ring-buffer/ring_buffer.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ring-buffer/ring_buffer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rotate/rotate.h" beforeDir="false" afterPath="$PROJECT_DIR$/../rotate/rotate.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../safe-transform/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../safe-transform/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../safe-transform/transform.h" beforeDir="false" afterPath="$PROJECT_DIR$/../safe-transform/transform.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheme-parser/parser.h" beforeDir="false" afterPath="$PROJECT_DIR$/../scheme-parser/parser.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheme-parser/parser_test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../scheme-parser/parser_test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheme-tokenizer/tokenizer.h" beforeDir="false" afterPath="$PROJECT_DIR$/../scheme-tokenizer/tokenizer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheme-tokenizer/tokenizer_test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../scheme-tokenizer/tokenizer_test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/review.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheme.h" beforeDir="false" afterPath="$PROJECT_DIR$/scheme.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/scheme_test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/test/scheme_test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/scheme_test.h" beforeDir="false" afterPath="$PROJECT_DIR$/test/scheme_test.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_lambda.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_lambda.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart-ptr/smart_ptr.h" beforeDir="false" afterPath="$PROJECT_DIR$/../smart-ptr/smart_ptr.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart-ptr/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../smart-ptr/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sort-students/sort_students.h" beforeDir="false" afterPath="$PROJECT_DIR$/../sort-students/sort_students.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sort-students/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../sort-students/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../split/split.h" beforeDir="false" afterPath="$PROJECT_DIR$/../split/split.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack/stack.h" beforeDir="false" afterPath="$PROJECT_DIR$/../stack/stack.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static-map/static_map.h" beforeDir="false" afterPath="$PROJECT_DIR$/../static-map/static_map.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string-view/string_view.h" beforeDir="false" afterPath="$PROJECT_DIR$/../string-view/string_view.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swap-sort/swap_sort.h" beforeDir="false" afterPath="$PROJECT_DIR$/../swap-sort/swap_sort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unique/unique.h" beforeDir="false" afterPath="$PROJECT_DIR$/../unique/unique.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vector/vector.h" beforeDir="false" afterPath="$PROJECT_DIR$/../vector/vector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../war/war.h" beforeDir="false" afterPath="$PROJECT_DIR$/../war/war.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../word-count/word_count.h" beforeDir="false" afterPath="$PROJECT_DIR$/../word-count/word_count.h" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Tq5sPIIxLHFR8MIkEDNMiUNWgW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../scheme" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b93d117-4d86-469f-9d21-fbc53c5ef49f" name="Default Changelist" comment="" />
+      <created>1574174990932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574174990932</updated>
+      <workItem from="1574174992317" duration="16000" />
+      <workItem from="1589686551288" duration="316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
